@@ -227,7 +227,7 @@ Author
 
 Varshini Reddy
 
-GitHub: <YOUR_GITHUB_PROFILE_URL>
+GitHub: gundavarshini
 
 Conclusion
 
