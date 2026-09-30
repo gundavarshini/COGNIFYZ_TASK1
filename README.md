@@ -156,15 +156,25 @@ Features
 📑 Learning Outcomes
 
 Through this task, I gained practical knowledge of:
+
 ->Creating HTML forms
+
 ->Understanding client-server communication
+
 ->Creating a Node.js application
+
 ->Working with Express.js
+
 ->Creating HTTP routes
+
 ->Handling POST requests
+
 ->Processing form data
+
 ->Using EJS templates
+
 ->Implementing server-side rendering
+
 ->Organizing a Node.js project
 
 Screenshots
