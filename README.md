@@ -23,7 +23,7 @@ The main objectives of this task are:
 - Dynamically generate an HTML response based on submitted data.
 
 
-##🧰  Technologies Used
+  🧰  Technologies Used
 
 - **HTML5** - For creating the user interface and form.
 - **CSS3** - For styling the web pages.
@@ -153,7 +153,7 @@ Features
 ->CSS-based page styling
 ->Basic frontend-backend interaction
 
-Learning Outcomes
+📑 Learning Outcomes
 
 Through this task, I gained practical knowledge of:
 ->Creating HTML forms
@@ -170,7 +170,9 @@ Through this task, I gained practical knowledge of:
 Screenshots
 
 Home Page
+
 <img width="701" height="695" alt="image" src="https://github.com/user-attachments/assets/11279821-74c5-4b2b-b2dd-0dac28497ea6" />
+
 
 Result Page
 
@@ -183,11 +185,17 @@ Future Enhancements
 The application can be extended with:
 
 ->Form validation
+
 ->Improved responsive UI
+
 ->Database integration
+
 ->User authentication
+
 ->Error handling
+
 ->REST API integration
+
 ->Additional form fields
 ->Persistent storage of submitted information
 
