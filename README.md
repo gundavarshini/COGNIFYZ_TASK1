@@ -145,12 +145,19 @@ http://localhost:3000
 Features
 
 ->User-friendly HTML form
+
 ->Express.js backend server
+
 ->Form submission handling
+
 ->Server-side data processing
+
 ->Dynamic HTML generation
+
 ->EJS template rendering
+
 ->CSS-based page styling
+
 ->Basic frontend-backend interaction
 
 📑 Learning Outcomes
